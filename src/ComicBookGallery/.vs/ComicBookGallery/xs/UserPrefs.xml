@@ -1,5 +1,31 @@
 ﻿<Properties StartupConfiguration="{C117F633-013C-4AD2-80B3-4027D146BC1A}|">
-  <MonoDevelop.Ide.ItemProperties.ComicBookGallery.Tests FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.ComicBookGallery FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/ComicBooks/Detail.cshtml">
+    <Files>
+      <File FileName="Controllers/ComicBooksController.cs" Line="13" Column="27" />
+      <File FileName="Views/ComicBooks/Detail.cshtml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ComicBookGallery" expanded="True">
+            <Node name="ComicBookGallery" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="ComicBooks" expanded="True">
+                  <Node name="Detail.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ComicBookGallery PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
 </Properties>
